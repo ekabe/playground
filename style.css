@@ -1,0 +1,132 @@
+/*fonts and colors */
+
+body {
+		
+	color: #F48882;
+	font-family: 'Raleway', sans-serif;
+	font-weight:  400;
+	background: url("images/clownbanner.jpg") no-repeat fixed;
+	background-position: center +13%;
+	background-size: cover;
+	background-color:  rgb(30, 30, 30);
+	margin:  0;
+}
+
+strong {
+
+	font-weight: 700;
+
+
+}
+
+h1 {
+	font-family:  'Luckiest Guy';
+	font-size:  40px;
+	font-weight: normal;
+	letter-spacing: 1px;
+	color:  #F48882;
+}
+h2 {
+	font-family: 'Luckiest Guy';
+	font-size: 28px;
+	color:  #ED5A75;
+	font-weight: normal;
+	letter-spacing: 1px;
+
+}
+
+h3 {
+	font-family: 'Luckiest Guy';
+	font-size: 28px;
+	color:  #ED5A75;
+	font-weight: normal;
+	letter-spacing: 1px;
+
+}
+
+a {
+	text-decoration: none;
+
+	color:  #2DC8BD;
+	font-weight: 600;
+}
+a:hover {
+	text-decoration: none;
+	color: #37D2C7;
+	font-weight:  600;
+}
+
+/* custom design */
+
+#header {
+
+background:  rgba(255, 255, 255, 0.5);
+border-radius: 50px;
+margin: 25px;
+margin-right:  60%;
+padding:  20px;
+text-align:  center;
+box-shadow: 1px 1px 2px paleturquoise;
+
+
+}
+
+#header a{
+
+	margin-top: 5px;
+	color: white;
+
+}
+
+/*#strong {
+
+	font-weight: 700;
+}*/
+
+
+.icons {
+background:  rgba(255, 255, 255, 0.5);
+color: #2DC8BD ;
+margin:  33px;
+padding:  30px;
+/*margin-right: 80%;*/
+text-align: center;
+border-radius: 50px;
+ box-shadow: 1px 1px 2px paleturquoise;
+}
+
+#footer {
+
+	background: white;
+	padding: 20px;
+	font-weight: lighter;
+	margin-top: 10%;
+
+}
+
+.icons img {
+
+margin-bottom: 12px;
+
+}
+
+
+
+/*.background {
+
+	background: url("images/clownbanner.jpg") no-repeat fixed;
+	background-position: absolute;
+	background-size: cover;
+	height: 2000px;
+	width:  auto;
+	background-color:  rgb(30, 30, 30);
+}
+	
+
+/*#dog_img {
+
+margin-bottom: -10px;
+
+
+}*/
+
